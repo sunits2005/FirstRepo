@@ -8,6 +8,6 @@ public class UnitTest {
 	{
 		int a=1;
 		int b=2;
-		Assert.assertTrue(2 == a+b);
+		Assert.assertTrue(3 == a+b);
 	}
 }
